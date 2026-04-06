@@ -22,7 +22,7 @@ Sistem ini mengolah dataset koordinat historis untuk menghitung probabilitas ris
 ## Metodologi Singkat
 **Inverse Distance Weighting (IDW)** adalah metode interpolasi spasial deterministik. Pendekatan ini mengasumsikan bahwa nilai pada lokasi yang tidak terpetakan merupakan fungsi rata-rata tertimbang dari titik-titik data terdekat. Dalam proyek ini, IDW digunakan untuk memprediksi "suhu" kerawanan suatu daerah meskipun tidak ada data kejadian spesifik di titik eksak tersebut, dengan memanfaatkan pola penyebaran kriminalitas di sekitarnya.
 
-## 📄 Dokumen Akademik
+##Dokumen Akademik
 Proyek ini merupakan implementasi teknis dari penelitian akademis dengan judul yang sama. Naskah Skripsi *Full-Text* dan Artikel Ilmiah dapat diakses pada tautan berikut:
 - **[Dokumen Aplikasi - Iqra Manaqibal Atqiya - Astra Group]([url](https://drive.google.com/drive/folders/1q8jnOJRy_eRRP4QLGesp2kCNIbXKu5jO?usp=drive_link))**
 
