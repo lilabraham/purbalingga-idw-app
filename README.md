@@ -24,9 +24,9 @@ Sistem ini mengolah dataset koordinat historis untuk menghitung probabilitas ris
 
 ##Dokumen Akademik
 Proyek ini merupakan implementasi teknis dari penelitian akademis dengan judul yang sama. Naskah Skripsi *Full-Text* dan Artikel Ilmiah dapat diakses pada tautan berikut:
-- **[Dokumen Aplikasi - Iqra Manaqibal Atqiya - Astra Group]([url](https://drive.google.com/drive/folders/1q8jnOJRy_eRRP4QLGesp2kCNIbXKu5jO?usp=drive_link))**
+- **https://drive.google.com/drive/folders/1q8jnOJRy_eRRP4QLGesp2kCNIbXKu5jO?usp=drive_link**
 
 ##Penulis
 **Iqra Manaqibal Atqiya**
 - **Email**: iqroace@gmail.com
-- **LinkedIn**: [LinkedIn]([url](https://www.linkedin.com/in/iqra-manaqibal-atqiya-5b21881a0/))
+- **LinkedIn**: https://www.linkedin.com/in/iqra-manaqibal-atqiya-5b21881a0/
